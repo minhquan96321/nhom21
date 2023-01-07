@@ -1,0 +1,223 @@
+
+.colum-25 {
+    width: 25%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.contai__con {
+    margin-top: 75px; 
+}
+
+.Partner {
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.net__street {
+    width: 430px;
+    height: 55px;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.net-home {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.net-name {
+    font-size: 1.5rem;
+    padding: 15px;
+    color: #c4c4c4;
+}
+
+.net-icon {
+    font-size: 1.2rem;
+    padding: 15px;
+}
+
+.intro--wap {
+    margin-top: 15px;
+}
+
+
+
+.home__net--intro {
+    display: block;
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0 1px 5px 2px #dfdfdf;
+    width: 635px;
+    height: 200px;
+    padding: 20px;
+   border-radius: 5px;
+}
+
+
+
+
+.Net__nhaphono {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.net-img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #c4c4c4;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.connet--anh {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+.nhaphon__net-name:hover .Tien__giang {
+    color:#0d6efd ;
+}
+
+.Tien__giang {
+    text-decoration: none;
+    color: #404044;
+}
+
+.giang {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    width: 75px;
+    height: 20px;
+    background-color: #6c757d;
+}
+
+.name--giang {
+    font-size: 1.2rem;
+    color: #e7e8ea;
+}
+
+.net__addiar {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.name--net {
+    margin: 0;
+    color: #333;
+    padding-right: 15px;
+}
+
+.xac__thuc {
+    background-color: #198754;
+    width: 65px;
+    height: 15px;
+    text-align: center;
+    font-size: 1rem;
+    color:#f0f7f4 ;
+    border-radius: 10px;
+}
+
+.net-icon-phone {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+.phone__net-icon {
+    padding-bottom: 5px;
+}
+
+.con-lon {
+    padding-right: 10px;
+    font-size: 1.4rem;
+}
+
+.lon-nhua {
+    font-size: 1.4rem;
+    padding-right: 10px;
+}
+
+.icon--lin {
+    padding-left: 10px;
+}
+
+.contac {
+    padding-left: 18px;
+}
+
+.number {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom : 0;
+}
+  
+.number-sothutu {
+    font-size: 1.8rem;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+  
+ .number-boder {
+    border: 1px solid #2a59c6;
+    color: #2a59c6;
+    font-weight: 300;
+}
+  
+ .number-dautien {
+    background-color: #2a59c6;
+    color:  #fff;
+}
+
+.footer-25colum {
+    margin-bottom: 16px;
+}
+
+.Mienbac {
+    font-size: 1.6rem;
+    margin-bottom: 16px;
+    font-weight: 400;
+}
+
+.List-oftheNor-th {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.list__item {
+    font-size: 1.4rem;
+    color: rgb(60, 58, 58);
+    margin-bottom: 10px;
+    word-spacing: 1px;
+    letter-spacing : 1px;
+    font-weight: 380;
+    cursor: pointer;
+}
+
+.list__item:hover {
+    color: #0d6efd;
+}
+
+.line {
+    color: #ccc;
+}
+
+.airia {
+    margin-top: 50px;
+}

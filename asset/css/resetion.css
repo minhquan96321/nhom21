@@ -1,0 +1,209 @@
+@media (max-width: 46.1875em) {
+  body {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .footer,
+  .colum-full,
+  .slider--warp {
+    width: 100% !important;
+  }
+
+  .slider-item {
+    overflow: hidden;
+  }
+
+  /* .land__introduction {
+    width: 50% !important ;
+  } */
+
+  .colun--sider--45 {
+  }
+
+  .slider-item {
+    overflow: hidden;
+  }
+
+  .header__list-user {
+    display: none;
+  }
+
+  .silder {
+    display: none;
+  }
+
+  .iteam-even {
+    display: block !important;
+  }
+
+  .dislap-colum {
+    display: inline;
+  }
+
+  .footer {
+    display: block;
+    padding-left: 35px;
+  }
+
+  .colum-footer {
+    display: inline;
+    padding-left: 50px;
+  }
+
+  .phone__lienhe-nav {
+    width: 50% !important;
+    margin-top: 25px;
+  }
+
+  .mobille-colum--50 {
+    float: right;
+  }
+
+  .ung_dung-lien-lac {
+    display: none;
+  }
+
+  .voucho__vip,
+  .quangcao__voucher {
+    width: 100%;
+  }
+
+  .sidier__gitsi--left {
+    width: 50% !important;
+  }
+
+  .mobile-table {
+    display: block;
+  }
+
+  .mobile--item-img {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .mobile-phoness,
+  .menu--icon {
+    display: block;
+  }
+
+  .mobile-phoness {
+    font-size: 2rem;
+  }
+
+  .slider-itemimg,
+  .slider-items,
+  .slider-item {
+    flex: 1 0 100%;
+  }
+
+  .slider--warp {
+    overflow-x: auto;
+  }
+
+  .slider--warp::-webkit-scrollbar {
+    display: none;
+  }
+
+  .address--body {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    height: 3rem;
+    overflow: hidden;
+  }
+
+  .slider-mionp,
+  .slider-wap1 {
+    overflow-x: auto;
+  }
+
+  .slider-wap1::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tawk-min-container {
+    display: none;
+  }
+
+  .iteam-even {
+    width: 100%;
+  }
+
+  .footer__div--mid {
+    width: 100%;
+  }
+
+  .circle__transfer {
+    display: none;
+  }
+
+  /* .btn-flex {
+    flex: 1 0 50%;
+  } */
+
+  .nhan__hieu {
+    max-width: 250px;
+  }
+
+  .contai__introduce {
+    font-size: 1.7rem;
+  }
+
+  .silder__contai--ngu {
+    font-size: 1.4rem;
+  }
+  .sophonehits {
+    font-size: 1.2rem;
+  }
+
+  .apptorr__footer {
+    max-width: 110px;
+  }
+
+  .thanh-pho-ahihi,
+  .sophonehit,
+  .classmonit {
+    font-size: 1.6rem;
+  }
+
+  .header_list-item .home {
+    width: 40px;
+    height: 40px;
+  }
+
+  .so__bat--dong-san,
+  .nav-item--phone,
+  .lits--tabtaito {
+    font-size: 1.1rem;
+  }
+
+  .phone__yeuem {
+    padding: 1px 0 3px 0;
+  }
+
+  .elonmuc__bietphu {
+    font-size: 1.6rem;
+  }
+  .hotthe__phones {
+    font-size: 1.2rem;
+  }
+  .header__list--sign .ionc--write {
+    font-size: 1.6rem;
+  }
+
+  .mobile--buuton {
+    text-align: center;
+    padding: 2px;
+  }
+
+  .mobile-sign {
+    cursor: pointer;
+    margin-bottom: 20px;
+    min-width: 220px;
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 64em) {
+}
